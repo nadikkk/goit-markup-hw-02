@@ -1,0 +1,24 @@
+:root {
+    --primery-text-color:#212121;
+    --second-text-color:#757575;
+    --accent-color:#2196F3;
+    --title-color:#FFFFFF;
+    --footer-address:rgba(255, 255, 255, 0.6);;
+}
+
+body {
+    background: #FFFFFF;
+    color: var(--primery-text-color);
+}
+footer{
+    background-color: #2F303A;
+}
+button{
+    background-color: #F5F4FA;#2196F3;;
+}
+.logo {
+    color: var(--accent-color);
+}
+.header-logo {
+    color: #000000;
+}
