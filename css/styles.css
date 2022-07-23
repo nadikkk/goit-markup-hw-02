@@ -33,6 +33,7 @@ body {
 }
 .btn {
     font-family: inherit; 
+    cursor: pointer;
 }
 .logo {
     color: var(--accent-color);
