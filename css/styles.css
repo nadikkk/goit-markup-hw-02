@@ -101,8 +101,7 @@ body {
     background-color: var(--accent-color);
 }
 .hero-btn:hover, .hero-btn:focus {
-    color: var(--accent-color);
-    background-color: var(--bgc-primery);
+    background-color: #188CE8;
 }
     
 
@@ -135,7 +134,7 @@ body {
 }
 .team-item-text{
     font-size: 16px;
-    line-height: 1,19;
+    line-height: 1.19;
     text-align: center;
     color: var(--second-text-color);
 }
